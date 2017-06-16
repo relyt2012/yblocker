@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <project path="device/lge/w5" name="relyt2012/android_device_lge_w5" remote="github" revision="tesla-6.0" />
-     <project path="device/lge/msm8226-common" name="relyt2012/android_device_lge_msm8226-common" remote="github" revision="tesla-6.0" />
-     <project path="vendor/lge/w5" name="relyt2012/proprietary_vendor_lge/w5" remote="github" revision="cm-13.0" />
-     <project path="kernel/lge/msm8226" name="zlaja/android_kernel_lge_msm8226" remote="github" revision="cm-13.0" />
+     <project path="device/lge/ms345" name="relyt2012/android_device_lge_ms345" remote="github" revision="5.1.1" />
+     <project path="device/lge/c50-common" name="relyt2012/android_device_lge_c50-common" remote="github" revision="cm-12.1" />
+     <project path="device/lge/msm8916-common" name="relyt2012/android_device_lge_msm8916-common" remote="github" revision="cm-12.1" />
+     <project path="vendor/lge/c50" name="relyt2012/proprietary_vendor_lge_c50" remote="github" revision="cm-12.1" />
+     <project path="kernel/lge/c50" name="relyt2012/Android_kernel_lge_C50" remote="github" revision="cm-12.1" />
+     <project path="kernel/lge/msm8916" name="TeamRegular/android_kernel_lge_msm8916" remote="github" revision="cm-12.1-lg" />
 </manifest>
